@@ -1,2 +1,2 @@
 # Imba
-imba RPG
+imba RPG lua
